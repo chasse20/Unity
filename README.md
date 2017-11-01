@@ -1,7 +1,7 @@
 # Unity
 Custom Unity Framework in C#
 
-Custom-created systems are also included in their own namespaces and folders:
+Also includes custom-built systems with their own namespaces and folders:
 * **CameraManager/**: dynamic Camera Manager for Split-Screen and VR
 * **DialogueSystem/**: modular, branching dialogue system
 * **InputManager/**: modular input system for PC, mobile and VR support as well as touch simulation via mouse
